@@ -2,7 +2,7 @@ package payment;
 
 import java.util.ArrayList;
 
-    public abstract Customer {
+    public abstract class Customer {
         public String name;
         public ArrayList<String> paymentHistory;
 
